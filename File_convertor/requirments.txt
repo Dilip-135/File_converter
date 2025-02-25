@@ -1,0 +1,4 @@
+# Make sure you have the required packages installed.
+Pandas #to read the file into a DataFrame
+streamlit #Essential for running the web application.
+openpyxl #Enables reading and writing of Excel (.xlsx) files.
